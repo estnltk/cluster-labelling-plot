@@ -1,0 +1,2 @@
+Esimene_klass
+Teine_klass
